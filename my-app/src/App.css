@@ -2,15 +2,6 @@
   margin: 0px;
 }
 
-.input-container{
-  padding: 10px;
-  border: 1px solid lightgray;
-  margin: 10px;
-  width: 95%;
-}
-
-.input-container > input{
-  width: 95%;
-  margin-bottom: 5px;
-  ;
+.profile-container{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
